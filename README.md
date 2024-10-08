@@ -1,3 +1,5 @@
+https://github.com/jacobgalactico/Taller2.git
+
 # Taller2
 
 Este proyecto es una aplicación de Android desarrollada en Kotlin utilizando Jetpack Compose. La aplicación incluye varias pantallas y funcionalidades básicas como navegación, temas dinámicos y tareas en segundo plano.
